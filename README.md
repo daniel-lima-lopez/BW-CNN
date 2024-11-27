@@ -3,7 +3,7 @@ This repository contains the code for the experiments described in the article *
 
 This work received the **Best Computing Track Paper Award**:
 
-<img src="ROPEC.jpeg">
+<img src="ROPEC.jpeg" alt="-" width="300">
 
 ## Installation
 The implementation was carried out using Keras, specifically with TensorFlow version 2.10 and Python version 3.9.19.
