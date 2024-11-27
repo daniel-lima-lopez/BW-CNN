@@ -1,6 +1,9 @@
 # BW-CNN
 This repository contains the code for the experiments described in the article **"Butterworth CNN: an improvement on memory use for Fourier Convolutional Neural Networks"** authored by Daniel Lima-López and [Pilar Gómez-Gil](https://scholar.google.com/citations?user=M3yVI1oAAAAJ&hl=es), to be published in the proceedings of the 2024 IEEE PES Generation, Transmission, and Distribution & IEEE Autumn Meeting on Power, Electronics and Computing Joint Conference. The code features the implementation of the proposed BW-CNN architecture, along with replicas of the [SB-CNN](https://www.sciencedirect.com/science/article/abs/pii/S0925231219310148) and conventional CNN architectures, which are used for comparing the performance of the proposed method.
 
+This work received the **Best Computing Track Paper Award**:
+
+<img src="ROPEC.jpeg">
 
 ## Installation
 The implementation was carried out using Keras, specifically with TensorFlow version 2.10 and Python version 3.9.19.
